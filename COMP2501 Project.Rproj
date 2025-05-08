@@ -1,0 +1,18 @@
+Version: 1.0
+ProjectId: f4b6c16d-b1f9-4e7c-aa21-0ad57931fce5
+
+RestoreWorkspace: No
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+PythonType: system
+PythonVersion: 3.13.3
+PythonPath: /opt/homebrew/bin/python3.13
