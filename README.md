@@ -1,7 +1,6 @@
-# HK-Job-Market-Indicator
-Personal R Project that analyze job market indicators in Hong Kong
-
 # COMP2501 Project: Hong Kong Job Market Health Analysis (2019–2024)
+### HK-Job-Market-Indicator
+Personal R Project that analyze job market indicators in Hong Kong
 
 ## Overview
 This project, conducted as part of HKU's COMP2501 course, analyzes Hong Kong’s job market from 2019 to 2024 to assess its economic health and sectoral trends. The research focuses on three key indicators: unemployment rate, median salary, and job vacancies, with a particular emphasis on sectoral changes in industries like finance, retail, and tech. Using data analysis and forecasting techniques in R, the project provides insights into economic trends, sector-specific dynamics, and the reliability of these indicators for understanding Hong Kong’s economic landscape.
