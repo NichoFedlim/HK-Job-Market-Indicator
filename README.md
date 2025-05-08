@@ -88,8 +88,7 @@ This project reveals a polarized job market in Hong Kong from 2019 to 2024, with
 - **Environment**: RStudio for coding and analysis.
 
 ## Author
-- **Nicholas Fedlin**  
-- Student ID: 3030385482  
+- **Nicholas Fedlim**  
 - Course: COMP2501, HKU  
 - Date: May 8, 2025
 
